@@ -1,0 +1,31 @@
+{
+  "rbenv": {
+    "user": "",
+    "group": "",
+    "global": "2.5.1",
+    "versions": [
+      "2.5.1"
+    ],
+    "schema": "https",
+    "cache": true
+  },
+  "rbenv-default-gems": {
+    "default-gems": [
+      "bundler"
+    ],
+    "install": true
+  },
+  "gitconfig": {
+    "core": {
+      "pager": "/usr/bin/less",
+      "editor": "/usr/bin/vi"
+    },
+    "alias": {
+      "graph": null
+    },
+    "user": {
+      "name": null,
+      "email": null
+    }
+  }
+}
